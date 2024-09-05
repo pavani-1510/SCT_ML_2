@@ -5,7 +5,7 @@ This repository contains a Jupyter Notebook for a machine learning task using th
 
 ## Files:
 - `Mall_Customers.csv`: Dataset used for the analysis.
-- `task2.ipynb`: Notebook with data exploration and model training.
+- `[task2.ipynb](https://github.com/pavani-1510/SCT_ML_2/blob/main/task2.ipynb)`: Notebook with data exploration and model training.
 
 ## Requirements:
 - Python 3.x
